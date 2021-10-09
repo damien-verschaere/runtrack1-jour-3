@@ -1,0 +1,30 @@
+h1{
+    font-size: large;
+    color:red;
+}
+.texte{
+   
+    text-align: center;
+}
+.equipe{
+    text-align: center;
+}
+#image{
+    display: flex;
+    flex-direction:column;
+    width: 100px;
+	height: 100px;
+}
+
+body{
+    background-image:url("image/japon.JPG") ;
+    background-size: 100%;
+}
+nav{
+    background-color: floralwhite;
+    border-radius: 50%;
+}
+p{
+   color:red;
+   font-size: large;
+}

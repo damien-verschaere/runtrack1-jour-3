@@ -1,0 +1,34 @@
+.equipe{
+  text-align: center;
+
+}
+h1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+.texte{
+    color: black;
+    text-align: center;
+    font-size: medium;
+}
+
+#image{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse
+    width: 100px;
+	height: 100px;
+   justify-content: center; 
+}
+body{
+   background-color: #378CF5;
+    
+}
+p{
+    font-family: 'Birthstone', cursive;
+    font-size:large;
+    color:white;
+}
+nav{
+    background-color: white;
+}
